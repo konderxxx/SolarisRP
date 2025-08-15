@@ -1,5 +1,3 @@
-### 0.0.1a – 2025-08-15
-#### 🚀 Nowości
-
-dea
----
+## 0.0.1 (August 15, 2025)
+* Player Data System
+* Money system
